@@ -20,11 +20,11 @@ ___
 - CSS : Theme
   
 ## Contributeurs ##
-
+- Jasmine Banchereau
 - ©Jean-Baptiste DEMENET
 - slack: @Jean-Baptiste :smile:
-- ~~©Hugo CORDILLOT~~
-- ~~slack: @Hugo Cordillot~~ :imp:
+- Hugo Cordillot
+- ~~slack: @Hugo Cordillot~~
 - ©Nazanin FARSHAD
 - slack: @Nazanin :smile:
 - ©Jean-Marc DARDY
