@@ -21,27 +21,21 @@ ___
   
 ## Contributeurs ##
 - Jasmine Banchereau
-- ©Jean-Baptiste DEMENET
-- slack: @Jean-Baptiste :smile:
-- Hugo Cordillot
-- ~~slack: @Hugo Cordillot~~
-- ©Nazanin FARSHAD
-- slack: @Nazanin :smile:
-- ©Jean-Marc DARDY
-- slack: @JM :smile:
+- Jean-Baptiste DEMENET :smile:
+- Hugo Cordillot :smile:
+- Nazanin FARSHAD :smile:
   
 ### Mentor ###
 
 - Anthony Amar
 - slack: @anthonyamar :rocket:
   
-#### Projet fait grace a la formation ####
+#### Projet dans le cadre de la formation ####
 
 [©The Hackig Project](<https://www.thehackingproject.org/fr>) :alien:
   
 ##### Pour Github #####
 
-- JM doit mettre en contributeur tout le monde
 - dirige toi via ton terminal dans le dossier que tu souhaites
 - git clone <https://github.com/JMD60260/fetchmeaband.git>
 - cd fetchmeaband
@@ -73,7 +67,7 @@ ___
 ___
 ![show BDD](app/assets/images/BDD2.png)
 
-##### TRELLO juste un aperu #####
+##### TRELLO juste un aperçu #####
 
 ___
 ![Trello](app/assets/images/Trello.png)
