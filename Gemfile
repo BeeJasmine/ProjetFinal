@@ -71,7 +71,7 @@ gem 'jquery-rails'
 
 gem 'bootstrap-sass'
 gem'font-awesome-sass'
-gem 'image_processing', '1.2'
+gem 'image_processing', '1.12.2'
 gem 'aws-sdk', '~> 3'
 
 gem 'rubocop'
